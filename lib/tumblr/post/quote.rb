@@ -24,7 +24,7 @@ module Tumblr
       end
 
       def self.post_body_keys
-        [:quote]
+        [:source]
       end
     end
   end
