@@ -19,7 +19,7 @@ module Tumblr
       end
 
       def self.post_body_keys
-        [:external_url, :caption]
+        [:caption]
       end
     end
   end
