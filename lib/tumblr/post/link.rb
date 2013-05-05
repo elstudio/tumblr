@@ -19,7 +19,7 @@ module Tumblr
       end
 
       def self.post_body_keys
-        [:url, :description]
+        [:description]
       end
     end
   end
